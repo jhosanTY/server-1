@@ -8140,3 +8140,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'chipped:classic_windowed_dark
 [22Jun2025 04:48:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosan_ty left the game
 [22Jun2025 04:48:37.359] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jhosan_ty
 [22Jun2025 04:48:37.362] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jhosan_ty
+[22Jun2025 04:49:30.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 04:49:30.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 04:54:30.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 04:54:30.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jun2025 04:59:30.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jun2025 04:59:30.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
